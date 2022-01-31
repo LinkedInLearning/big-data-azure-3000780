@@ -1,10 +1,8 @@
 # Nom final de la formation
 
-Ce dossier Repository est lié au cours [Développer une solution big data avec Azure] [lil-course-url].Le cours entier est disponible sur [LinkedIn Learning].
+Ce dossier Repository est lié au cours [Développer une solution big data avec Azure] (lil-course-url).Le cours entier est disponible sur LinkedIn Learning.
 
-![Nom final de la formation][lil-thumbnail-url] 
-
-DESCRIPTION DE LA FORMATION
+Plus une organisation gère de gros volumes de données, plus elle doit mettre en place des architectures adaptées au développement de ses systèmes d'information. Quel que soit votre métier ou votre rôle dans une entreprise, vous êtes certainement en contact avec des sujets relatifs au big data et à l'intelligence artificielle. Dans ce cours, vous allez vous initier au big data pour développer et déployer votre première application en temps réel. Madjid Khichane, ingénieur en informatique et PhD en intelligence artificielle, vous propose de créer un projet big data avec les technologies disponibles sur la plateforme Azure comme IoT Hub, Stream Analytics ou encore Machine Learning Service.		
 
 ## Installation
 
