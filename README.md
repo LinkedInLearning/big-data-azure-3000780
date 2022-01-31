@@ -1,6 +1,6 @@
 # Nom final de la formation
 
-Ce dossier Repository est lié au cours **LinkedIn Learning** [Développer une solution big data avec Azure]. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours [Développer une solution big data avec Azure]. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
