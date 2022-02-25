@@ -8,20 +8,18 @@ Le langage de programmation Go, qui a été développé par Google, est l'un des
 
 ## Installation
 
-    Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-    
-    Visual Sudio Code.
+    Pour utiliser ces fichiers d’exercice, vous avez besoin de : Visual Sudio Code.
     
     Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
     
     Dans Visual Studio Code, vous pouvez apporter vos modifications directement sur le code, puis lancez ces programmes.
 
-
 ### Formateur
 
 **Madjid Khichane** 
 
-Retrouvez mes autres formations (www.linkedin.com/in/madjid-khichane) sur LinkedIn Learning.
+Retrouvez mes autres formations [LinkedIn Learning][lil-URL-trainer].
 
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg	
+[lil-URL-trainer]: https://www.linkedin.com/in/madjid-khichane
