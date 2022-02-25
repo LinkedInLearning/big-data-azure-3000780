@@ -8,7 +8,7 @@ Plus une organisation gère de gros volumes de données, plus elle doit mettre e
 
 ## Installation
 
-    Pour utiliser ces fichiers d’exercice, vous avez besoin de : Visual Sudio Code.
+    Pour utiliser ces fichiers d’exercice, vous avez besoin de : Visual Studio Code.
     
     Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
     
