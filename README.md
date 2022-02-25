@@ -1,8 +1,10 @@
-# Nom final de la formation
+# Développer une solution big data avec Azure
 
-Ce dossier Repository est lié au cours [Développer une solution big data avec Azure] (lil-course-url).Le cours entier est disponible sur LinkedIn Learning.
+Ce dossier Repository est lié au cours [Développer une solution big data avec Azure][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning).
 
-Plus une organisation gère de gros volumes de données, plus elle doit mettre en place des architectures adaptées au développement de ses systèmes d'information. Quel que soit votre métier ou votre rôle dans une entreprise, vous êtes certainement en contact avec des sujets relatifs au big data et à l'intelligence artificielle. Dans ce cours, vous allez vous initier au big data pour développer et déployer votre première application en temps réel. Madjid Khichane, ingénieur en informatique et PhD en intelligence artificielle, vous propose de créer un projet big data avec les technologies disponibles sur la plateforme Azure comme IoT Hub, Stream Analytics ou encore Machine Learning Service.		
+![Développer une solution big data avec Azure][lil-thumbnail-url] 
+
+Le langage de programmation Go, qui a été développé par Google, est l'un des plus en vue grâce à sa rapidité et à sa simplicité. Dans cette formation d'Omar Souissi, vous découvrirez l'environnement de travail, la syntaxe utilisée, les types de données, aussi bien basiques que composites, et les différentes fonctions du langage. Vous verrez quel est l'intérêt des interfaces et vous apprendrez à les mettre en œuvre. Puis, le cours se conclura sur les phases de test, que vous serez en mesure de créer aisément.
 
 ## Installation
 
@@ -15,12 +17,11 @@ Plus une organisation gère de gros volumes de données, plus elle doit mettre e
     Dans Visual Studio Code, vous pouvez apporter vos modifications directement sur le code, puis lancez ces programmes.
 
 
+### Formateur
 
-### Instructeur
+**Madjid Khichane** 
 
-**Nom du formateur** 
-
- Retrouvez Madjid Khichane (www.linkedin.com/in/madjid-khichane) sur LinkedIn Learning.
+Retrouvez mes autres formations (www.linkedin.com/in/madjid-khichane) sur LinkedIn Learning.
 
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg	
