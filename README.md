@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours [Développer une solution big data avec 
 
 ![Développer une solution big data avec Azure][lil-thumbnail-url] 
 
-Le langage de programmation Go, qui a été développé par Google, est l'un des plus en vue grâce à sa rapidité et à sa simplicité. Dans cette formation d'Omar Souissi, vous découvrirez l'environnement de travail, la syntaxe utilisée, les types de données, aussi bien basiques que composites, et les différentes fonctions du langage. Vous verrez quel est l'intérêt des interfaces et vous apprendrez à les mettre en œuvre. Puis, le cours se conclura sur les phases de test, que vous serez en mesure de créer aisément.
+Plus une organisation gère de gros volumes de données, plus elle doit mettre en place des architectures adaptées au développement de ses systèmes d'information. Quel que soit votre métier ou votre rôle dans une entreprise, vous êtes certainement en contact avec des sujets relatifs au Big Data et à l'intelligence artificielle. Dans ce cours, vous allez vous initier au Big Data pour développer et déployer votre première application en temps réel. Madjid Khichane, ingénieur en informatique et PhD en intelligence artificielle, vous propose de créer un projet Big Data avec les technologies disponibles sur la plateforme Azure comme IoT Hub, Stream Analytics ou encore Machine Learning Service.
 
 ## Installation
 
