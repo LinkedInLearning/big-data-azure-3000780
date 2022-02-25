@@ -20,6 +20,6 @@ Le langage de programmation Go, qui a été développé par Google, est l'un des
 
 Retrouvez mes autres formations [LinkedIn Learning][lil-URL-trainer].
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg	
+[lil-course-url]: https://
+[lil-thumbnail-url]: https://
 [lil-URL-trainer]: https://www.linkedin.com/in/madjid-khichane
