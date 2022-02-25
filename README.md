@@ -22,4 +22,4 @@ Retrouvez mes autres formations [LinkedIn Learning][lil-URL-trainer].
 
 [lil-course-url]: https://
 [lil-thumbnail-url]: https://
-[lil-URL-trainer]: https://www.linkedin.com/in/madjid-khichane
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane
