@@ -1,6 +1,6 @@
 # Développer une solution big data avec Azure
 
-Ce dossier Repository est lié au cours [Développer une solution big data avec Azure][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning).
+Ce dossier Repository est lié au cours `Développer une solution big data avec Azure`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Développer une solution big data avec Azure][lil-thumbnail-url] 
 
