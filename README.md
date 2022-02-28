@@ -20,6 +20,6 @@ Plus une organisation gère de gros volumes de données, plus elle doit mettre e
 
 Retrouvez mes autres formations [LinkedIn Learning][lil-URL-trainer].
 
-[lil-course-url]: https://
-[lil-thumbnail-url]: https://
+[lil-course-url]: https://www.linkedin.com/learning/developper-une-solution-big-data-avec-azure
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHi3GK5grh_Yw/learning-public-crop_675_1200/0/1645186317382?e=1646125200&v=beta&t=eQEDB1hVLhdlWq-YXdmvLbDagEOXrHGc4G1u-HDC9eA
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane
